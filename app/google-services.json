@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775396532651",
+    "project_id": "finalmarvelapp",
+    "storage_bucket": "finalmarvelapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775396532651:android:89427de006a053a66572ee",
+        "android_client_info": {
+          "package_name": "com.example.finamarvelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqSPFgtd_sLLS64_fiBrlw-ENUxntDZ4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
